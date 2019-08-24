@@ -34,7 +34,7 @@ hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}
 code,kbd,pre,samp{font-size:1em}
 button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}
 button{overflow:visible}
-button,select{text-transform:none}
+button,select{text-transform:uppercase}
 button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
 button[disabled],html input[disabled]{cursor:default}
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
@@ -102,9 +102,9 @@ cite{font-style:normal}
 .text-center{text-align:center}
 .text-justify{text-align:justify}
 .text-nowrap{white-space:nowrap}
-.text-lowercase{text-transform:lowercase}
+.text-lowercase{text-transform:uppercase}
 .text-uppercase{text-transform:uppercase}
-.text-capitalize{text-transform:capitalize}
+.text-capitalize{text-transform:uppercase}
 .text-muted{color:#999}
 .text-primary{color:#}
 a.text-primary:hover{color:#477396}

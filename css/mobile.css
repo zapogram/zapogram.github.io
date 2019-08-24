@@ -679,7 +679,7 @@ img.im_message_video_thumb,
   margin-top: 3px;
 }
 .im_message_out .im_message_fwd_date {
-  color: #93a2ae;
+  color: #94ae93;
 }
 .im_message_out .icon-document {
   background-color: #dae6f0;
@@ -701,7 +701,7 @@ img.im_message_video_thumb,
 .im_history_select_active .im_message_outer_wrap:hover .audio_player_duration,
 .im_history_select_active .im_message_outer_wrap:hover .audio_player_size,
 .im_history_select_active .im_message_outer_wrap:hover .im_message_fwd_date {
-  color: #68839c;
+  color: #6c9c68;
 }
 .im_message_from_photo,
 .im_message_fwd_photo {

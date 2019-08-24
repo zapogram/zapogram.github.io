@@ -57,20 +57,20 @@ html {
 .tg_page_head .navbar-inverse .navbar-nav > li > a {
   padding-top: 13px;
   padding-bottom: 13px;
-  color: #b9cfe3;
+  color: #bce3b9;
   font-size: 13px;
 }
 .tg_page_head .navbar-inverse .navbar-nav > li > a:hover {
   color: #fff;
 }
 .tg_page_head .navbar-inverse .navbar-toggle {
-  border-color: #497495;
+  border-color: #519549;
   outline: 0;
   border: 0;
 }
 .tg_page_head .navbar-inverse .navbar-collapse,
 .tg_page_head .navbar-inverse .navbar-form {
-  border-color: #497495;
+  border-color: #519549;
 }
 .tg_page_head .navbar-inverse .navbar-toggle:active,
 .tg_page_head .navbar-inverse .navbar-toggle:focus {
@@ -81,7 +81,7 @@ html {
   outline: none;
 }
 .ios_standalone .modal.mobile_modal {
-  border-top: 20px solid #497495;
+  border-top: 20px solid #519549;
 }
 .im_history_panel_edit_link {
   margin-right: 0;
@@ -111,7 +111,7 @@ html {
   padding: 16px 17px;
 }
 .navbar-toggle-wrap .navbar-toggle .icon-bar {
-  background-color: #d7e5f0;
+  background-color: #d8f0d7;
   width: 5px;
   height: 5px;
   border-radius: 3px;
@@ -220,7 +220,7 @@ html {
 .tg_page_head .navbar-inverse .navbar-quick-nav > li > a {
   padding-left: 16px;
   padding: 6px 10px 2px 28px;
-  color: #b9cfe3;
+  color: #bbe3b9;
   font-size: 13px;
   height: 46px;
   /*&:active,*/
@@ -421,7 +421,7 @@ html {
 .im_message_selected .im_message_body,
 .im_message_selected .im_message_document,
 .im_message_selected .im_message_audio {
-  background: #497495;
+  background: #519549;
   color: #fff;
 }
 .im_message_selected .im_message_body_media {
@@ -493,7 +493,7 @@ html {
   position: absolute;
 }
 .im_message_out .im_message_document .icon-document {
-  background-color: #e4ecf2;
+  background-color: #e5f2e4;
 }
 .im_message_document_thumb_wrap {
   background-color: transparent;
@@ -823,13 +823,13 @@ a.im_message_author_via .im_message_fwd_author {
   padding: 13px 0;
 }
 .im_edit_forward_btn {
-  color: #497495 !important;
+  color: #519549 !important;
 }
 .im_edit_delete_btn {
   color: #c3584d !important;
 }
 .im_start_btn {
-  color: #497495 !important;
+  color: #519549 !important;
 }
 .im_edit_delete_btn strong,
 .im_edit_forward_btn strong {
